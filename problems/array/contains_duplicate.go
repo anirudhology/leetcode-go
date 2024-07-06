@@ -1,6 +1,6 @@
 package array
 
-func containsDuplicate(nums []int) bool {
+func ContainsDuplicate(nums []int) bool {
 	// Special case
 	if nums == nil || len(nums) == 0 {
 		return false
