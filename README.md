@@ -6,5 +6,6 @@ LeetCode solutions in Go programming language.
 
 | Problem ID | Problem Name       | Solution Source                                  | Difficulty | Tag            |
 | ---------- | ------------------ | ------------------------------------------------ | ---------- | -------------- |
+| 1          | Two Sum            | [Solution](problems/array/two_sum.go)            | Easy       | Array, Hashing |
 | 217        | Contains Duplicate | [Solution](problems/array/contains_duplicate.go) | Easy       | Array, Hashing |
 | 242        | Valid Anagram      | [Solution](problems/array/valid_anagram.go)      | Easy       | String         |
