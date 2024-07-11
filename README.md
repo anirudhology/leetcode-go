@@ -7,6 +7,7 @@ LeetCode solutions in Go programming language.
 | Problem ID | Problem Name                 | Solution Source                                            | Difficulty | Tag                |
 | ---------- | ---------------------------- | ---------------------------------------------------------- | ---------- | ------------------ |
 | 1          | Two Sum                      | [Solution](problems/array/two_sum.go)                      | Easy       | Array, Hashing     |
+| 36         | Valid Sudoku                 | [Solution](problems/array/valid_sudoku.go)                 | Medium     | Array, Hashing     |
 | 49         | Group Anagrams               | [Solution](problems/strings/group_anagrams.go)             | Medium     | String, Hashing    |
 | 217        | Contains Duplicate           | [Solution](problems/array/contains_duplicate.go)           | Easy       | Array, Hashing     |
 | 238        | Product Of Array Except Self | [Solution](problems/array/product_of_array_except_self.go) | Medium     | Array              |
