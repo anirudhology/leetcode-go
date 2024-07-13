@@ -7,6 +7,7 @@ LeetCode solutions in Go programming language.
 | Problem ID | Problem Name                       | Solution Source                                                | Difficulty | Tag                          |
 | ---------- | ---------------------------------- | -------------------------------------------------------------- | ---------- | ---------------------------- |
 | 1          | Two Sum                            | [Solution](problems/array/two_sum.go)                          | Easy       | Array, Hashing               |
+| 11         | Container With Most Water          | [Solution](problems/array/container_with_most_water.go)        | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                              | [Solution](problems/array/three_sum.go)                        | Medium     | Array, Sorting, Two Pointers |
 | 36         | Valid Sudoku                       | [Solution](problems/array/valid_sudoku.go)                     | Medium     | Array, Hashing               |
 | 49         | Group Anagrams                     | [Solution](problems/strings/group_anagrams.go)                 | Medium     | String, Hashing              |
