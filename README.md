@@ -10,6 +10,7 @@ LeetCode solutions in Go programming language.
 | 11         | Container With Most Water          | [Solution](problems/array/container_with_most_water.go)        | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                              | [Solution](problems/array/three_sum.go)                        | Medium     | Array, Sorting, Two Pointers |
 | 36         | Valid Sudoku                       | [Solution](problems/array/valid_sudoku.go)                     | Medium     | Array, Hashing               |
+| 42         | Trapping Rain Water                | [Solution](problems/array/trapping_rain_water.go)              | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                     | [Solution](problems/strings/group_anagrams.go)                 | Medium     | String, Hashing              |
 | 125        | Valid Palindrome                   | [Solution](problems/strings/valid_palindrome.go)               | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](problems/array/longest_consecutive_sequence.go)     | Medium     | Array, Hashing               |
