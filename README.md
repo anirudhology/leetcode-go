@@ -15,6 +15,7 @@ LeetCode solutions in Go programming language.
 | 49         | Group Anagrams                     | [Solution](problems/strings/group_anagrams.go)                 | Medium     | String, Hashing              |
 | 125        | Valid Palindrome                   | [Solution](problems/strings/valid_palindrome.go)               | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](problems/array/longest_consecutive_sequence.go)     | Medium     | Array, Hashing               |
+| 155        | Min Stack                          | [Solution](problems/stack/min_stack.go)                        | Medium     | Stack, Design                |
 | 167        | Two Sum II - Input Array Is Sorted | [Solution](problems/array/two_sum_ii_input_array_is_sorted.go) | Medium     | Array, Two Pointers          |
 | 217        | Contains Duplicate                 | [Solution](problems/array/contains_duplicate.go)               | Easy       | Array, Hashing               |
 | 238        | Product Of Array Except Self       | [Solution](problems/array/product_of_array_except_self.go)     | Medium     | Array                        |
