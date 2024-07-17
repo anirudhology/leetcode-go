@@ -25,5 +25,6 @@ LeetCode solutions in Go programming language.
 | 242        | Valid Anagram                      | [Solution](problems/strings/valid_anagram.go)                  | Easy       | String                       |
 | 271        | Encode And Decode Strings          | [Solution](problems/strings/encode_and_decode_strings.go)      | Medium     | String                       |
 | 347        | Top K Frequent Elements            | [Solution](problems/array/top_k_frequent_elements.go)          | Medium     | Array, Bucket Sort           |
+| 704        | Binary Search                      | [Solution](problems/binary_search/binary_search.go)            | Easy       | Binary Search                |
 | 739        | Daily Temperatures                 | [Solution](problems/stack/daily_temperatures.go)               | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                          | [Solution](problems/stack/car_fleet.go)                        | Medium     | Stack, Monotonic Stack       |
