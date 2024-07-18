@@ -14,6 +14,7 @@ LeetCode solutions in Go programming language.
 | 36         | Valid Sudoku                       | [Solution](problems/array/valid_sudoku.go)                     | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                | [Solution](problems/array/trapping_rain_water.go)              | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                     | [Solution](problems/strings/group_anagrams.go)                 | Medium     | String, Hashing              |
+| 74         | Search A 2D Matrix                 | [Solution](problems/binary_search/search_a_2d_matrix.go)       | Easy       | Binary Search                |
 | 84         | Largest Rectangle In Histogram     | [Solution](problems/stack/largest_rectangle_in_histogram.go)   | Hard       | Stack, Monotonic Stack       |
 | 125        | Valid Palindrome                   | [Solution](problems/strings/valid_palindrome.go)               | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence       | [Solution](problems/array/longest_consecutive_sequence.go)     | Medium     | Array, Hashing               |
