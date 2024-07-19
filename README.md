@@ -11,6 +11,7 @@ LeetCode solutions in Go programming language.
 | 15         | 3 Sum                                | [Solution](problems/array/three_sum.go)                                    | Medium     | Array, Sorting, Two Pointers |
 | 20         | Valid Parentheses                    | [Solution](problems/stack/valid_parentheses.go)                            | Easy       | Stack                        |
 | 22         | Generate Parentheses                 | [Solution](problems/stack/generate_parentheses.go)                         | Medium     | Stack, Backtracking          |
+| 33         | Search In Rotated Sorted Array       | [Solution](problems/binary_search/search_in_rotated_sorted_array.go)       | Medium     | Binary Search                |
 | 36         | Valid Sudoku                         | [Solution](problems/array/valid_sudoku.go)                                 | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                  | [Solution](problems/array/trapping_rain_water.go)                          | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                       | [Solution](problems/strings/group_anagrams.go)                             | Medium     | String, Hashing              |
