@@ -7,7 +7,7 @@ import (
 )
 
 func TestTimeMap(t *testing.T) {
-	timeMap := binary_search.Constructor()
+	timeMap := binary_search.TimeMapConstructor()
 
 	// Test setting and getting a single value
 	timeMap.Set("foo", "bar", 1)

@@ -9,7 +9,7 @@ type TimeMap struct {
 	entries map[string]*Node
 }
 
-func Constructor() TimeMap {
+func TimeMapConstructor() TimeMap {
 	return TimeMap{
 		entries: make(map[string]*Node),
 	}
