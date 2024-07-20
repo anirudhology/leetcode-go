@@ -32,3 +32,4 @@ LeetCode solutions in Go programming language.
 | 739        | Daily Temperatures                   | [Solution](problems/stack/daily_temperatures.go)                           | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                            | [Solution](problems/stack/car_fleet.go)                                    | Medium     | Stack, Monotonic Stack       |
 | 875        | Koko Eating Bananas                  | [Solution](problems/binary_search/koko_eating_bananas.go)                  | Medium     | Binary Search                |
+| 981        | Time Based Key Value Store           | [Solution](problems/binary_search/time_based_key_value_store.go)           | Medium     | Binary Search                |
