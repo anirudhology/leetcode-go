@@ -18,6 +18,7 @@ LeetCode solutions in Go programming language.
 | 49         | Group Anagrams                       | [Solution](problems/strings/group_anagrams.go)                             | Medium     | String, Hashing              |
 | 74         | Search A 2D Matrix                   | [Solution](problems/binary_search/search_a_2d_matrix.go)                   | Easy       | Binary Search                |
 | 84         | Largest Rectangle In Histogram       | [Solution](problems/stack/largest_rectangle_in_histogram.go)               | Hard       | Stack, Monotonic Stack       |
+| 121        | Best Time To Buy And Sell Stocks     | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.go)    | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                     | [Solution](problems/strings/valid_palindrome.go)                           | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence         | [Solution](problems/array/longest_consecutive_sequence.go)                 | Medium     | Array, Hashing               |
 | 150        | Evaluate Reverse Polish Notation     | [Solution](problems/stack/evaluate_reverse_polish_notation.go)             | Medium     | Stack                        |
