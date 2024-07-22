@@ -18,6 +18,7 @@ LeetCode solutions in Go programming language.
 | 42         | Trapping Rain Water                            | [Solution](problems/array/trapping_rain_water.go)                                     | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                                 | [Solution](problems/strings/group_anagrams.go)                                        | Medium     | String, Hashing              |
 | 74         | Search A 2D Matrix                             | [Solution](problems/binary_search/search_a_2d_matrix.go)                              | Easy       | Binary Search                |
+| 76         | Minimum Window Substring                       | [Solution](problems/sliding_window/minimum_window_substring.go)                       | Medium     | Sliding Window               |
 | 84         | Largest Rectangle In Histogram                 | [Solution](problems/stack/largest_rectangle_in_histogram.go)                          | Hard       | Stack, Monotonic Stack       |
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.go)               | Easy       | Sliding Window               |
 | 125        | Valid Palindrome                               | [Solution](problems/strings/valid_palindrome.go)                                      | Medium     | String, Two Pointers         |
