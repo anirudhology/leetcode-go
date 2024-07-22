@@ -29,6 +29,7 @@ LeetCode solutions in Go programming language.
 | 167        | Two Sum II - Input Array Is Sorted             | [Solution](problems/array/two_sum_ii_input_array_is_sorted.go)                        | Medium     | Array, Two Pointers          |
 | 217        | Contains Duplicate                             | [Solution](problems/array/contains_duplicate.go)                                      | Easy       | Array, Hashing               |
 | 238        | Product Of Array Except Self                   | [Solution](problems/array/product_of_array_except_self.go)                            | Medium     | Array                        |
+| 239        | Sliding Window Maximum                         | [Solution](problems/sliding_window/sliding_window_maximum.go)                         | Hard       | Sliding Window               |
 | 242        | Valid Anagram                                  | [Solution](problems/strings/valid_anagram.go)                                         | Easy       | String                       |
 | 271        | Encode And Decode Strings                      | [Solution](problems/strings/encode_and_decode_strings.go)                             | Medium     | String                       |
 | 347        | Top K Frequent Elements                        | [Solution](problems/array/top_k_frequent_elements.go)                                 | Medium     | Array, Bucket Sort           |
