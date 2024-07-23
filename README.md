@@ -12,6 +12,7 @@ LeetCode solutions in Go programming language.
 | 11         | Container With Most Water                      | [Solution](problems/array/container_with_most_water.go)                               | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                                          | [Solution](problems/array/three_sum.go)                                               | Medium     | Array, Sorting, Two Pointers |
 | 20         | Valid Parentheses                              | [Solution](problems/stack/valid_parentheses.go)                                       | Easy       | Stack                        |
+| 21         | Merge Two Sorted Lists                         | [Solution](problems/linked_lists/merge_two_sorted_lists.go)                           | Easy       | Linked List                  |
 | 22         | Generate Parentheses                           | [Solution](problems/stack/generate_parentheses.go)                                    | Medium     | Stack, Backtracking          |
 | 33         | Search In Rotated Sorted Array                 | [Solution](problems/binary_search/search_in_rotated_sorted_array.go)                  | Medium     | Binary Search                |
 | 36         | Valid Sudoku                                   | [Solution](problems/array/valid_sudoku.go)                                            | Medium     | Array, Hashing               |
