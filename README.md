@@ -7,7 +7,8 @@ LeetCode solutions in Go programming language.
 | Problem ID | Problem Name                                   | Solution Source                                                                       | Difficulty | Tag                          |
 | ---------- | ---------------------------------------------- | ------------------------------------------------------------------------------------- | ---------- | ---------------------------- |
 | 1          | Two Sum                                        | [Solution](problems/array/two_sum.go)                                                 | Easy       | Array, Hashing               |
-| 3          | Longest Substring Without Repeating Characters | [Solution](problems/sliding_window/longest_substring_without_repeating_characters.go) | MEdium     | Sliding Window, String       |
+| 2          | Add Two Numbers                                | [Solution](problems/linked_list/add_two_numbers.go)                                   | Medium     | Linked List                  |
+| 3          | Longest Substring Without Repeating Characters | [Solution](problems/sliding_window/longest_substring_without_repeating_characters.go) | Medium     | Sliding Window, String       |
 | 4          | Median Of Two Sorted Arrays                    | [Solution](problems/binary_search/median_of_two_sorted_arrays.go)                     | Hard       | Binary Search                |
 | 11         | Container With Most Water                      | [Solution](problems/array/container_with_most_water.go)                               | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                                          | [Solution](problems/array/three_sum.go)                                               | Medium     | Array, Sorting, Two Pointers |
