@@ -39,6 +39,7 @@ LeetCode solutions in Go programming language.
 | 239        | Sliding Window Maximum                         | [Solution](problems/sliding_window/sliding_window_maximum.go)                         | Hard       | Sliding Window               |
 | 242        | Valid Anagram                                  | [Solution](problems/strings/valid_anagram.go)                                         | Easy       | String                       |
 | 271        | Encode And Decode Strings                      | [Solution](problems/strings/encode_and_decode_strings.go)                             | Medium     | String                       |
+| 287        | Find The Duplicate Number                      | [Solution](problems/linked_list/find_the_duplicate_number.go)                         | Medium     | Two Pointers                 |
 | 347        | Top K Frequent Elements                        | [Solution](problems/array/top_k_frequent_elements.go)                                 | Medium     | Array, Bucket Sort           |
 | 424        | Longest Repeating Character Replacement        | [Solution](problems/sliding_window/longest_repeating_character_replacement.go)        | Medium     | Sliding Window               |
 | 567        | Permutation In String                          | [Solution](problems/sliding_window/permutation_in_string.go)                          | Medium     | Sliding Window               |
