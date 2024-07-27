@@ -16,6 +16,7 @@ LeetCode solutions in Go programming language.
 | 20         | Valid Parentheses                              | [Solution](problems/stack/valid_parentheses.go)                                       | Easy       | Stack                        |
 | 21         | Merge Two Sorted Lists                         | [Solution](problems/linked_lists/merge_two_sorted_lists.go)                           | Easy       | Linked List                  |
 | 22         | Generate Parentheses                           | [Solution](problems/stack/generate_parentheses.go)                                    | Medium     | Stack, Backtracking          |
+| 23         | Merge K Sorted Lists                           | [Solution](problems/linked_lists/merge_k_sorted_lists.go)                             | Hard       | Linked List                  |
 | 33         | Search In Rotated Sorted Array                 | [Solution](problems/binary_search/search_in_rotated_sorted_array.go)                  | Medium     | Binary Search                |
 | 36         | Valid Sudoku                                   | [Solution](problems/array/valid_sudoku.go)                                            | Medium     | Array, Hashing               |
 | 42         | Trapping Rain Water                            | [Solution](problems/array/trapping_rain_water.go)                                     | Hard       | Array, Two Pointers          |
