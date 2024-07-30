@@ -26,7 +26,6 @@ LeetCode solutions in Go programming language.
 | 76         | Minimum Window Substring                       | [Solution](problems/sliding_window/minimum_window_substring.go)                       | Medium     | Sliding Window               |
 | 84         | Largest Rectangle In Histogram                 | [Solution](problems/stack/largest_rectangle_in_histogram.go)                          | Hard       | Stack, Monotonic Stack       |
 | 100        | Same Tree                                      | [Solution](problems/tree/same_tree.go)                                                | Easy       | Binary Tree                  |
-| 102        | Binary Tree Level Order Traversal              | [Solution](problems/tree/binary_tree_level_order_traversal.go)                        | Medium     | Binary Tree, BFS             |
 | 104        | Maximum Depth Of Binary Tree                   | [Solution](problems/tree/maximum_depth_of_binary_tree.go)                             | Easy       | Binary Tree, Recursion       |
 | 110        | Balanced Binary Tree                           | [Solution](problems/tree/balanced_binary_tree.go)                                     | Easy       | Binary Tree, DFs             |
 | 121        | Best Time To Buy And Sell Stocks               | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.go)               | Easy       | Sliding Window               |
