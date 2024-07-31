@@ -45,6 +45,7 @@ LeetCode solutions in Go programming language.
 | 206        | Reverse Linked List                            | [Solution](problems/linked_list/reverse_linked_list.go)                               | Easy       | Linked List                  |
 | 217        | Contains Duplicate                             | [Solution](problems/array/contains_duplicate.go)                                      | Easy       | Array, Hashing               |
 | 226        | Invert Binary Tree                             | [Solution](problems/tree/invert_binary_tree.go)                                       | Easy       | Binary Tree, Recursion       |
+| 230        | Kth Smallest Element In A BST                  | [Solution](problems/tree/kth_smallest_element_in_a_bst.go)                            | Medium     | Binary Search Tree, BST, DFS |
 | 235        | Lowest Common Ancestor Of A Binary Search Tree | [Solution](problems/tree/lowest_common_ancestor_of_a_binary_search_tree.go)           | Medium     | Binary Search Tree, BST      |
 | 238        | Product Of Array Except Self                   | [Solution](problems/array/product_of_array_except_self.go)                            | Medium     | Array                        |
 | 239        | Sliding Window Maximum                         | [Solution](problems/sliding_window/sliding_window_maximum.go)                         | Hard       | Sliding Window               |
