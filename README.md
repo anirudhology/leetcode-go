@@ -25,6 +25,7 @@ LeetCode solutions in Go programming language.
 | 74         | Search A 2D Matrix                             | [Solution](problems/binary_search/search_a_2d_matrix.go)                              | Easy       | Binary Search                |
 | 76         | Minimum Window Substring                       | [Solution](problems/sliding_window/minimum_window_substring.go)                       | Medium     | Sliding Window               |
 | 84         | Largest Rectangle In Histogram                 | [Solution](problems/stack/largest_rectangle_in_histogram.go)                          | Hard       | Stack, Monotonic Stack       |
+| 98         | Validate Binary Search Tree                    | [Solution](problems/tree/validate_binary_search_tree.go)                              | Medium     | Binary Tree, BST, DFS        |
 | 100        | Same Tree                                      | [Solution](problems/tree/same_tree.go)                                                | Easy       | Binary Tree                  |
 | 102        | Binary Tree Level Order Traversal              | [Solution](problems/tree/binary_tree_level_order_traversal.go)                        | Medium     | Binary Tree, BFS             |
 | 104        | Maximum Depth Of Binary Tree                   | [Solution](problems/tree/maximum_depth_of_binary_tree.go)                             | Easy       | Binary Tree, Recursion       |
