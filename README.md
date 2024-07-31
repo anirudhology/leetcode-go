@@ -60,3 +60,4 @@ LeetCode solutions in Go programming language.
 | 853        | Car Fleet                                      | [Solution](problems/stack/car_fleet.go)                                               | Medium     | Stack, Monotonic Stack       |
 | 875        | Koko Eating Bananas                            | [Solution](problems/binary_search/koko_eating_bananas.go)                             | Medium     | Binary Search                |
 | 981        | Time Based Key Value Store                     | [Solution](problems/binary_search/time_based_key_value_store.go)                      | Medium     | Binary Search                |
+| 1448       | Count Good Nodes In Binary Tree                | [Solution](problems/tree/count_good_nodes_in_binary_tree.go)                          | Medium     | Binary Tree, DFS             |
