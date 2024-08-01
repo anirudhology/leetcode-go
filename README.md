@@ -32,6 +32,7 @@ LeetCode solutions in Go programming language.
 | 105        | Construct Binary Tree From Preorder And Inorder Traversal | [Solution](problems/tree/construct_binary_tree_from_preorder_and_inorder_traversal.go) | Medium     | Binary Tree, DFS             |
 | 110        | Balanced Binary Tree                                      | [Solution](problems/tree/balanced_binary_tree.go)                                      | Easy       | Binary Tree, DFs             |
 | 121        | Best Time To Buy And Sell Stocks                          | [Solution](problems/sliding_window/best_time_to_buy_and_sell_stocks.go)                | Easy       | Sliding Window               |
+| 124        | Binary Tree Maximum Path Sum                              | [Solution](problems/tree/binary_tree_maximum_path_sum.go)                              | Medium     | Binary Tree, DFS             |
 | 125        | Valid Palindrome                                          | [Solution](problems/strings/valid_palindrome.go)                                       | Medium     | String, Two Pointers         |
 | 128        | Longest Consecutive Sequence                              | [Solution](problems/array/longest_consecutive_sequence.go)                             | Medium     | Array, Hashing               |
 | 138        | Copy List With Random Pointer                             | [Solution](problems/linked_list/copy_list_with_random_pointer.go)                      | Medium     | Linked List, Hashing         |
