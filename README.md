@@ -54,6 +54,7 @@ LeetCode solutions in Go programming language.
 | 242        | Valid Anagram                                             | [Solution](problems/strings/valid_anagram.go)                                          | Easy       | String                       |
 | 271        | Encode And Decode Strings                                 | [Solution](problems/strings/encode_and_decode_strings.go)                              | Medium     | String                       |
 | 287        | Find The Duplicate Number                                 | [Solution](problems/linked_list/find_the_duplicate_number.go)                          | Medium     | Two Pointers                 |
+| 297        | Serialize And Deserialize Binary Tree                     | [Solution](problems/tree/serialize_and_deserialize_binary_tree.go)                     | Hard       | Binary Tree, BFS             |
 | 347        | Top K Frequent Elements                                   | [Solution](problems/array/top_k_frequent_elements.go)                                  | Medium     | Array, Bucket Sort           |
 | 424        | Longest Repeating Character Replacement                   | [Solution](problems/sliding_window/longest_repeating_character_replacement.go)         | Medium     | Sliding Window               |
 | 543        | Diameter Of Binary Tree                                   | [Solution](problems/tree/diameter_of_binary_tree.go)                                   | Easy       | Binary Tree                  |
