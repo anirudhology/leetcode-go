@@ -45,6 +45,7 @@ LeetCode solutions in Go programming language.
 | 167        | Two Sum II - Input Array Is Sorted                        | [Solution](problems/array/two_sum_ii_input_array_is_sorted.go)                         | Medium     | Array, Two Pointers          |
 | 199        | Binary Tree Right Side View                               | [Solution](problems/tree/binary_tree_right_side_view.go)                               | Medium     | Binary Tree, BFS             |
 | 206        | Reverse Linked List                                       | [Solution](problems/linked_list/reverse_linked_list.go)                                | Easy       | Linked List                  |
+| 208        | Implement Trie (Prefix Tree)                              | [Solution](problems/trie/implement_trie.go)                                            | Medium     | Trie, Design                 |
 | 217        | Contains Duplicate                                        | [Solution](problems/array/contains_duplicate.go)                                       | Easy       | Array, Hashing               |
 | 226        | Invert Binary Tree                                        | [Solution](problems/tree/invert_binary_tree.go)                                        | Easy       | Binary Tree, Recursion       |
 | 230        | Kth Smallest Element In A BST                             | [Solution](problems/tree/kth_smallest_element_in_a_bst.go)                             | Medium     | Binary Search Tree, BST, DFS |
