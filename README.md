@@ -20,6 +20,7 @@ LeetCode solutions in Go programming language.
 | 25         | Reverse Nodes In K Group                                  | [Solution](problems/linked_lists/reverse_nodes_in_k_group.go)                          | Hard       | Linked List                  |
 | 33         | Search In Rotated Sorted Array                            | [Solution](problems/binary_search/search_in_rotated_sorted_array.go)                   | Medium     | Binary Search                |
 | 36         | Valid Sudoku                                              | [Solution](problems/array/valid_sudoku.go)                                             | Medium     | Array, Hashing               |
+| 39         | Combination Sum                                           | [Solution](problems/backtracking/combination_sum.go)                                   | Medium     | Backtracking                 |
 | 42         | Trapping Rain Water                                       | [Solution](problems/array/trapping_rain_water.go)                                      | Hard       | Array, Two Pointers          |
 | 49         | Group Anagrams                                            | [Solution](problems/strings/group_anagrams.go)                                         | Medium     | String, Hashing              |
 | 74         | Search A 2D Matrix                                        | [Solution](problems/binary_search/search_a_2d_matrix.go)                               | Easy       | Binary Search                |
