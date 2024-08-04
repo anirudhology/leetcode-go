@@ -21,6 +21,7 @@ LeetCode solutions in Go programming language.
 | 33         | Search In Rotated Sorted Array                            | [Solution](problems/binary_search/search_in_rotated_sorted_array.go)                   | Medium     | Binary Search                |
 | 36         | Valid Sudoku                                              | [Solution](problems/array/valid_sudoku.go)                                             | Medium     | Array, Hashing               |
 | 39         | Combination Sum                                           | [Solution](problems/backtracking/combination_sum.go)                                   | Medium     | Backtracking                 |
+| 40         | Combination Sum II                                        | [Solution](problems/backtracking/combination_sum_ii.go)                                | Medium     | Backtracking                 |
 | 42         | Trapping Rain Water                                       | [Solution](problems/array/trapping_rain_water.go)                                      | Hard       | Array, Two Pointers          |
 | 46         | Permutations                                              | [Solution](problems/backtracking/permutations.go)                                      | Medium     | Backtracking                 |
 | 49         | Group Anagrams                                            | [Solution](problems/strings/group_anagrams.go)                                         | Medium     | String, Hashing              |
