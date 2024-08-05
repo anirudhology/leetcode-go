@@ -12,6 +12,7 @@ LeetCode solutions in Go programming language.
 | 4          | Median Of Two Sorted Arrays                               | [Solution](problems/binary_search/median_of_two_sorted_arrays.go)                      | Hard       | Binary Search                |
 | 11         | Container With Most Water                                 | [Solution](problems/array/container_with_most_water.go)                                | Medium     | Array, Two Pointers          |
 | 15         | 3 Sum                                                     | [Solution](problems/array/three_sum.go)                                                | Medium     | Array, Sorting, Two Pointers |
+| 17         | Letter Combinations Of A Phone Number                     | [Solution](problems/backtracking/letter_combinations_of_a_phone_number.go)             | Medium     | Backtracking                 |
 | 19         | Remove Nth Node From End Of List                          | [Solution](problems/linked_list/remove_nth_node_from_end_of_list.go)                   | Medium     | Linked List, Two Pointers    |
 | 20         | Valid Parentheses                                         | [Solution](problems/stack/valid_parentheses.go)                                        | Easy       | Stack                        |
 | 21         | Merge Two Sorted Lists                                    | [Solution](problems/linked_lists/merge_two_sorted_lists.go)                            | Easy       | Linked List                  |
