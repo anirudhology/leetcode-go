@@ -26,6 +26,7 @@ LeetCode solutions in Go programming language.
 | 42         | Trapping Rain Water                                       | [Solution](problems/array/trapping_rain_water.go)                                      | Hard       | Array, Two Pointers          |
 | 46         | Permutations                                              | [Solution](problems/backtracking/permutations.go)                                      | Medium     | Backtracking                 |
 | 49         | Group Anagrams                                            | [Solution](problems/strings/group_anagrams.go)                                         | Medium     | String, Hashing              |
+| 51         | N Queens                                                  | [Solution](problems/backtracking/n_queens.go)                                          | Hard       | Backtracking                 |
 | 74         | Search A 2D Matrix                                        | [Solution](problems/binary_search/search_a_2d_matrix.go)                               | Easy       | Binary Search                |
 | 76         | Minimum Window Substring                                  | [Solution](problems/sliding_window/minimum_window_substring.go)                        | Medium     | Sliding Window               |
 | 78         | Subsets                                                   | [Solution](problems/backtracking/subsets.go)                                           | Medium     | Backtracking                 |
