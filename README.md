@@ -72,7 +72,7 @@ LeetCode solutions in Go programming language.
 | 543        | Diameter Of Binary Tree                                   | [Solution](problems/tree/diameter_of_binary_tree.go)                                   | Easy       | Binary Tree                  |
 | 567        | Permutation In String                                     | [Solution](problems/sliding_window/permutation_in_string.go)                           | Medium     | Sliding Window               |
 | 572        | Subtree Of Another Tree                                   | [Solution](problems/tree/subtree_of_another_tree.go)                                   | Easy       | Binary Tree                  |
-| 703        | Kth Largest Element In A Stream                           | [Solution](problems/heap/kth_largest_element_in_a_stream.go)                           | Easy       | Heap                         |
+| 703        | Kth Largest Element In A Stream                           | [Solution](problems/heaps/kth_largest_element_in_a_stream.go)                          | Easy       | Heap                         |
 | 704        | Binary Search                                             | [Solution](problems/binary_search/binary_search.go)                                    | Easy       | Binary Search                |
 | 739        | Daily Temperatures                                        | [Solution](problems/stack/daily_temperatures.go)                                       | Medium     | Stack, Monotonic Stack       |
 | 853        | Car Fleet                                                 | [Solution](problems/stack/car_fleet.go)                                                | Medium     | Stack, Monotonic Stack       |
