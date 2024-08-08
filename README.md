@@ -59,6 +59,7 @@ LeetCode solutions in Go programming language.
 | 208        | Implement Trie (Prefix Tree)                              | [Solution](problems/trie/implement_trie.go)                                            | Medium     | Trie, Design                 |
 | 211        | Design Add And Search Words Data Structure                | [Solution](problems/trie/design_add_and_search_words_data_structure.go)                | Medium     | Trie, Design                 |
 | 212        | Word Search II                                            | [Solution](problems/trie/word_search_ii.go)                                            | Hard       | Trie, Backtracking           |
+| 213        | House Robber II                                           | [Solution](problems/dynamic_programming/house_robber_ii.go)                            | Medium     | Dynamic Programming          |
 | 215        | Kth Largest Element In An Array                           | [Solution](problems/quick_select/kth_largest_element_in_an_array.go)                   | Medium     | Quick Select                 |
 | 217        | Contains Duplicate                                        | [Solution](problems/array/contains_duplicate.go)                                       | Easy       | Array, Hashing               |
 | 226        | Invert Binary Tree                                        | [Solution](problems/tree/invert_binary_tree.go)                                        | Easy       | Binary Tree, Recursion       |
