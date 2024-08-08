@@ -77,6 +77,7 @@ LeetCode solutions in Go programming language.
 | 703        | Kth Largest Element In A Stream                           | [Solution](problems/heaps/kth_largest_element_in_a_stream.go)                          | Easy       | Heap                         |
 | 704        | Binary Search                                             | [Solution](problems/binary_search/binary_search.go)                                    | Easy       | Binary Search                |
 | 739        | Daily Temperatures                                        | [Solution](problems/stack/daily_temperatures.go)                                       | Medium     | Stack, Monotonic Stack       |
+| 746        | Min Cost Climbing Stairs                                  | [Solution](problems/dynamic_programming/min_cost_climbing_stairs.go)                   | Easy       | Dynamic Programming          |
 | 853        | Car Fleet                                                 | [Solution](problems/stack/car_fleet.go)                                                | Medium     | Stack, Monotonic Stack       |
 | 875        | Koko Eating Bananas                                       | [Solution](problems/binary_search/koko_eating_bananas.go)                              | Medium     | Binary Search                |
 | 973        | K Closest Points To Origin                                | [Solution](problems/heaps/k_closest_points_to_origin.go)                               | Medium     | Heap                         |
