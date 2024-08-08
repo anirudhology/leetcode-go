@@ -53,6 +53,7 @@ LeetCode solutions in Go programming language.
 | 153        | Find Minimum In Rotated Sorted Array                      | [Solution](problems/binary_search/find_minimum_in_rotated_sorted_array.go)             | Medium     | Binary Search                |
 | 155        | Min Stack                                                 | [Solution](problems/stack/min_stack.go)                                                | Medium     | Stack, Design                |
 | 167        | Two Sum II - Input Array Is Sorted                        | [Solution](problems/array/two_sum_ii_input_array_is_sorted.go)                         | Medium     | Array, Two Pointers          |
+| 198        | House Robber                                              | [Solution](problems/dynamic_programming/house_robber.go)                               | Medium     | Dynamic Programming          |
 | 199        | Binary Tree Right Side View                               | [Solution](problems/tree/binary_tree_right_side_view.go)                               | Medium     | Binary Tree, BFS             |
 | 206        | Reverse Linked List                                       | [Solution](problems/linked_list/reverse_linked_list.go)                                | Easy       | Linked List                  |
 | 208        | Implement Trie (Prefix Tree)                              | [Solution](problems/trie/implement_trie.go)                                            | Medium     | Trie, Design                 |
