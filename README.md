@@ -35,6 +35,7 @@ LeetCode solutions in Go programming language.
 | 79         | Word Search                                               | [Solution](problems/backtracking/word_search.go)                                       | Medium     | Backtracking, DFS                 |
 | 84         | Largest Rectangle In Histogram                            | [Solution](problems/stack/largest_rectangle_in_histogram.go)                           | Hard       | Stack, Monotonic Stack            |
 | 90         | Subsets II                                                | [Solution](problems/backtracking/subsets_ii.go)                                        | Medium     | Backtracking                      |
+| 91         | DEcode Ways                                               | [Solution](problems/dynamic_programming/decode_ways.go)                                | Medium     | Dynamic Programming               |
 | 98         | Validate Binary Search Tree                               | [Solution](problems/tree/validate_binary_search_tree.go)                               | Medium     | Binary Tree, BST, DFS             |
 | 100        | Same Tree                                                 | [Solution](problems/tree/same_tree.go)                                                 | Easy       | Binary Tree                       |
 | 102        | Binary Tree Level Order Traversal                         | [Solution](problems/tree/binary_tree_level_order_traversal.go)                         | Medium     | Binary Tree, BFS                  |
