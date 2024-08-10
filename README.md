@@ -52,6 +52,7 @@ LeetCode solutions in Go programming language.
 | 143        | Reorder List                                              | [Solution](problems/linked_list/reorder_list.go)                                       | Medium     | Linked List                       |
 | 146        | LRU Cache                                                 | [Solution](problems/design/lru_cache.go)                                               | Medium     | Design, Linked List               |
 | 150        | Evaluate Reverse Polish Notation                          | [Solution](problems/stack/evaluate_reverse_polish_notation.go)                         | Medium     | Stack                             |
+| 152        | Maximum Product Subarray                                  | [Solution](problems/dynamic_programming/maximum_product_subarray.go)                   | Medium     | Dynamic Programming               |
 | 153        | Find Minimum In Rotated Sorted Array                      | [Solution](problems/binary_search/find_minimum_in_rotated_sorted_array.go)             | Medium     | Binary Search                     |
 | 155        | Min Stack                                                 | [Solution](problems/stack/min_stack.go)                                                | Medium     | Stack, Design                     |
 | 167        | Two Sum II - Input Array Is Sorted                        | [Solution](problems/array/two_sum_ii_input_array_is_sorted.go)                         | Medium     | Array, Two Pointers               |
