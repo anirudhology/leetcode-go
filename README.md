@@ -78,6 +78,7 @@ LeetCode solutions in Go programming language.
 | 300        | Longest Increasing Subsequence                            | [Solution](problems/dynamic_programming/longest_increasing_subsequence.go)             | Medium     | Dynamic Programming               |
 | 322        | Coin Change                                               | [Solution](problems/dynamic_programming/coin_change.go)                                | Medium     | Dynamic Programming               |
 | 347        | Top K Frequent Elements                                   | [Solution](problems/array/top_k_frequent_elements.go)                                  | Medium     | Array, Bucket Sort                |
+| 416        | Partition Equal Subset Sum                                | [Solution](problems/dynamic_programming/partition_equal_subset_Sum.go)                 | Medium     | Dynamic Programming               |
 | 424        | Longest Repeating Character Replacement                   | [Solution](problems/sliding_window/longest_repeating_character_replacement.go)         | Medium     | Sliding Window                    |
 | 543        | Diameter Of Binary Tree                                   | [Solution](problems/tree/diameter_of_binary_tree.go)                                   | Easy       | Binary Tree                       |
 | 567        | Permutation In String                                     | [Solution](problems/sliding_window/permutation_in_string.go)                           | Medium     | Sliding Window                    |
