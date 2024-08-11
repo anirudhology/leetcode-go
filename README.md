@@ -59,6 +59,7 @@ LeetCode solutions in Go programming language.
 | 167        | Two Sum II - Input Array Is Sorted                        | [Solution](problems/array/two_sum_ii_input_array_is_sorted.go)                         | Medium     | Array, Two Pointers               |
 | 198        | House Robber                                              | [Solution](problems/dynamic_programming/house_robber.go)                               | Medium     | Dynamic Programming               |
 | 199        | Binary Tree Right Side View                               | [Solution](problems/tree/binary_tree_right_side_view.go)                               | Medium     | Binary Tree, BFS                  |
+| 200        | Number Of Islands                                         | [Solution](problems/dfs/number_of_islands.go)                                          | Medium     | DFS                               |
 | 206        | Reverse Linked List                                       | [Solution](problems/linked_list/reverse_linked_list.go)                                | Easy       | Linked List                       |
 | 208        | Implement Trie (Prefix Tree)                              | [Solution](problems/trie/implement_trie.go)                                            | Medium     | Trie, Design                      |
 | 211        | Design Add And Search Words Data Structure                | [Solution](problems/trie/design_add_and_search_words_data_structure.go)                | Medium     | Trie, Design                      |
