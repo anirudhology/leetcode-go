@@ -47,6 +47,7 @@ LeetCode solutions in Go programming language.
 | 125        | Valid Palindrome                                          | [Solution](problems/strings/valid_palindrome.go)                                       | Medium     | String, Two Pointers              |
 | 128        | Longest Consecutive Sequence                              | [Solution](problems/array/longest_consecutive_sequence.go)                             | Medium     | Array, Hashing                    |
 | 131        | Palindrome Partitioning                                   | [Solution](problems/backtracking/palindrome_partitioning.go)                           | Medium     | Backtracking                      |
+| 133        | Clone Graph                                               | [Solution](problems/graph/clone_graph.go)                                              | Medium     | Graph, DFS                        |
 | 138        | Copy List With Random Pointer                             | [Solution](problems/linked_list/copy_list_with_random_pointer.go)                      | Medium     | Linked List, Hashing              |
 | 139        | Word Break                                                | [Solution](problems/dynamic_programming/word_break.go)                                 | Medium     | Dynamic Programming               |
 | 141        | Linked List Cycle                                         | [Solution](problems/linked_list/linked_list_cycle.go)                                  | Easy       | Linked List, Two Pointers         |
