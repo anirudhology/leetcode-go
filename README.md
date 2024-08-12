@@ -96,5 +96,6 @@ LeetCode solutions in Go programming language.
 | 875        | Koko Eating Bananas                                       | [Solution](problems/binary_search/koko_eating_bananas.go)                              | Medium     | Binary Search                     |
 | 973        | K Closest Points To Origin                                | [Solution](problems/heaps/k_closest_points_to_origin.go)                               | Medium     | Heap                              |
 | 981        | Time Based Key Value Store                                | [Solution](problems/binary_search/time_based_key_value_store.go)                       | Medium     | Binary Search                     |
+| 994        | Rotting Oranges                                           | [Solution](problems/bfs/rotting_oranges.go)                                            | Medium     | BFS                               |
 | 1046       | Last Stone Weight                                         | [Solution](problems/heaps/last_stone_weight.go)                                        | Easy       | Heap                              |
 | 1448       | Count Good Nodes In Binary Tree                           | [Solution](problems/tree/count_good_nodes_in_binary_tree.go)                           | Medium     | Binary Tree, DFS                  |
