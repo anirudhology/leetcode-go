@@ -28,6 +28,7 @@ LeetCode solutions in Go programming language.
 | 46         | Permutations                                              | [Solution](problems/backtracking/permutations.go)                                      | Medium     | Backtracking                      |
 | 49         | Group Anagrams                                            | [Solution](problems/strings/group_anagrams.go)                                         | Medium     | String, Hashing                   |
 | 51         | N Queens                                                  | [Solution](problems/backtracking/n_queens.go)                                          | Hard       | Backtracking                      |
+| 57         | Insert Intervals                                          | [Solution](problems/intervals/insert_intervals.go)                                     | Medium     | Intervals, Array                  |
 | 70         | Climbing Stairs                                           | [Solution](problems/dynamic_programming/climbing_stairs.go)                            | Easy       | Dynamic Programming               |
 | 74         | Search A 2D Matrix                                        | [Solution](problems/binary_search/search_a_2d_matrix.go)                               | Easy       | Binary Search                     |
 | 76         | Minimum Window Substring                                  | [Solution](problems/sliding_window/minimum_window_substring.go)                        | Medium     | Sliding Window                    |
