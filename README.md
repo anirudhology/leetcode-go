@@ -76,6 +76,7 @@ LeetCode solutions in Go programming language.
 | 238        | Product Of Array Except Self                              | [Solution](problems/array/product_of_array_except_self.go)                             | Medium     | Array                             |
 | 239        | Sliding Window Maximum                                    | [Solution](problems/sliding_window/sliding_window_maximum.go)                          | Hard       | Sliding Window                    |
 | 242        | Valid Anagram                                             | [Solution](problems/strings/valid_anagram.go)                                          | Easy       | String                            |
+| 252        | Meeting Rooms                                             | [Solution](problems/intervals/meeting_rooms.go)                                        | Easy       | Intervals, Sorting                |
 | 271        | Encode And Decode Strings                                 | [Solution](problems/strings/encode_and_decode_strings.go)                              | Medium     | String                            |
 | 286        | Walls And Gates                                           | [Solution](problems/bfs/walls_and_gates.go)                                            | Medium     | BFS                               |
 | 287        | Find The Duplicate Number                                 | [Solution](problems/linked_list/find_the_duplicate_number.go)                          | Medium     | Two Pointers                      |
