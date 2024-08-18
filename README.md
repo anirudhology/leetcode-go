@@ -88,6 +88,7 @@ LeetCode solutions in Go programming language.
 | 416        | Partition Equal Subset Sum                                | [Solution](problems/dynamic_programming/partition_equal_subset_sum.go)                 | Medium     | Dynamic Programming               |
 | 417        | Pacific Atlantic Water Flow                               | [Solution](problems/bfs/pacific_atlantic_water_flow.go)                                | Medium     | BFS                               |
 | 424        | Longest Repeating Character Replacement                   | [Solution](problems/sliding_window/longest_repeating_character_replacement.go)         | Medium     | Sliding Window                    |
+| 435        | Non-overlapping Intervals                                 | [Solution](problems/intervals/non_overlapping_intervals.go)                            | Medium     | Intervals, Sorting                |
 | 543        | Diameter Of Binary Tree                                   | [Solution](problems/tree/diameter_of_binary_tree.go)                                   | Easy       | Binary Tree                       |
 | 567        | Permutation In String                                     | [Solution](problems/sliding_window/permutation_in_string.go)                           | Medium     | Sliding Window                    |
 | 572        | Subtree Of Another Tree                                   | [Solution](problems/tree/subtree_of_another_tree.go)                                   | Easy       | Binary Tree                       |
