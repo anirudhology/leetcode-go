@@ -1,4 +1,4 @@
-package main
+package graph_test
 
 import (
 	"testing"
