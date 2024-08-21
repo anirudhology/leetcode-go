@@ -85,6 +85,7 @@ LeetCode solutions in Go programming language.
 | 271        | Encode And Decode Strings                                 | [Solution](problems/strings/encode_and_decode_strings.go)                                | Medium     | String                            |
 | 286        | Walls And Gates                                           | [Solution](problems/bfs/walls_and_gates.go)                                              | Medium     | BFS                               |
 | 287        | Find The Duplicate Number                                 | [Solution](problems/linked_list/find_the_duplicate_number.go)                            | Medium     | Two Pointers                      |
+| 295        | Find Median from Data Stream                              | [Solution](problems/heaps/find_median_from_data_stream.go)                               | Hard       | Heaps                             |
 | 297        | Serialize And Deserialize Binary Tree                     | [Solution](problems/tree/serialize_and_deserialize_binary_tree.go)                       | Hard       | Binary Tree, BFS                  |
 | 300        | Longest Increasing Subsequence                            | [Solution](problems/dynamic_programming/longest_increasing_subsequence.go)               | Medium     | Dynamic Programming               |
 | 322        | Coin Change                                               | [Solution](problems/dynamic_programming/coin_change.go)                                  | Medium     | Dynamic Programming               |
