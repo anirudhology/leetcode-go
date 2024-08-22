@@ -30,6 +30,7 @@ LeetCode solutions in Go programming language.
 | 51         | N Queens                                                  | [Solution](problems/backtracking/n_queens.go)                                            | Hard       | Backtracking                      |
 | 56         | Merge Intervals                                           | [Solution](problems/intervals/merge_intervals.go)                                        | Medium     | Intervals, Array                  |
 | 57         | Insert Interval                                           | [Solution](problems/intervals/insert_interval.go)                                        | Medium     | Intervals, Array                  |
+| 62         | Unique Paths                                              | [Solution](problems/dynamic_programming/unique_paths.go)                                 | Medium     | Dynamic Programming               |
 | 70         | Climbing Stairs                                           | [Solution](problems/dynamic_programming/climbing_stairs.go)                              | Easy       | Dynamic Programming               |
 | 74         | Search A 2D Matrix                                        | [Solution](problems/binary_search/search_a_2d_matrix.go)                                 | Easy       | Binary Search                     |
 | 76         | Minimum Window Substring                                  | [Solution](problems/sliding_window/minimum_window_substring.go)                          | Medium     | Sliding Window                    |
