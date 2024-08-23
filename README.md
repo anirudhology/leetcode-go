@@ -98,6 +98,7 @@ LeetCode solutions in Go programming language.
 | 417        | Pacific Atlantic Water Flow                               | [Solution](problems/bfs/pacific_atlantic_water_flow.go)                                    | Medium     | BFS                               |
 | 424        | Longest Repeating Character Replacement                   | [Solution](problems/sliding_window/longest_repeating_character_replacement.go)             | Medium     | Sliding Window                    |
 | 435        | Non-overlapping Intervals                                 | [Solution](problems/intervals/non_overlapping_intervals.go)                                | Medium     | Intervals, Sorting                |
+| 494        | Target Sum                                                | [Solution](problems/dynamic_programming/target_sum.go)                                     | Medium     | Dynamic Programming               |
 | 518        | Coin Change II                                            | [Solution](problems/dynamic_programming/coin_change_ii.go)                                 | Medium     | Dynamic Programming               |
 | 543        | Diameter Of Binary Tree                                   | [Solution](problems/tree/diameter_of_binary_tree.go)                                       | Easy       | Binary Tree                       |
 | 567        | Permutation In String                                     | [Solution](problems/sliding_window/permutation_in_string.go)                               | Medium     | Sliding Window                    |
