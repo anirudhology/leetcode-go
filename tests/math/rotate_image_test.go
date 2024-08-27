@@ -19,8 +19,8 @@ func TestRotate(t *testing.T) {
 		{8, 5, 2},
 		{9, 6, 3},
 	}
-	math.RotateImage(matrix1)
-	if !reflect.DeepEqual(matrix1, expected1) {
+	result1 := math.RotateImage(matrix1)
+	if !reflect.DeepEqual(result1, expected1) {
 		t.Errorf("Expected %v, but got %v", expected1, matrix1)
 	}
 
@@ -37,31 +37,31 @@ func TestRotate(t *testing.T) {
 		{12, 6, 8, 9},
 		{16, 7, 10, 11},
 	}
-	math.RotateImage(matrix2)
-	if !reflect.DeepEqual(matrix2, expected2) {
+	result2 := math.RotateImage(matrix2)
+	if !reflect.DeepEqual(result2, expected2) {
 		t.Errorf("Expected %v, but got %v", expected2, matrix2)
 	}
 
 	// Test case 3: 1x1 matrix
 	matrix3 := [][]int{{1}}
 	expected3 := [][]int{{1}}
-	math.RotateImage(matrix3)
-	if !reflect.DeepEqual(matrix3, expected3) {
+	result3 := math.RotateImage(matrix3)
+	if !reflect.DeepEqual(result3, expected3) {
 		t.Errorf("Expected %v, but got %v", expected3, matrix3)
 	}
 
 	// Test case 4: Empty matrix
 	matrix4 := [][]int{}
 	expected4 := [][]int{}
-	math.RotateImage(matrix4)
-	if !reflect.DeepEqual(matrix4, expected4) {
+	result4 := math.RotateImage(matrix4)
+	if !reflect.DeepEqual(result4, expected4) {
 		t.Errorf("Expected %v, but got %v", expected4, matrix4)
 	}
 
 	// Test case 5: Nil matrix
 	var matrix5 [][]int = nil
-	math.RotateImage(matrix5)
-	if matrix5 != nil {
+	result5 := math.RotateImage(matrix5)
+	if result5 != nil {
 		t.Errorf("Expected nil, but got %v", matrix5)
 	}
 }

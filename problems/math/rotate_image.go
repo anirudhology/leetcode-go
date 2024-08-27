@@ -1,9 +1,9 @@
 package math
 
-func RotateImage(matrix [][]int) {
+func RotateImage(matrix [][]int) [][]int {
 	// Special case
 	if len(matrix) == 0 {
-		return
+		return matrix
 	}
 	// Order of the matrix
 	n := len(matrix)
@@ -19,4 +19,5 @@ func RotateImage(matrix [][]int) {
 			matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
 		}
 	}
+	return matrix
 }
