@@ -139,4 +139,5 @@ LeetCode solutions in Go programming language.
 | 1143       | Longest Common Subsequence                                | [Solution](problems/dynamic_programming/longest_common_subsequence.go)                     | Medium     | Dynamic Programming                   |
 | 1448       | Count Good Nodes In Binary Tree                           | [Solution](problems/tree/count_good_nodes_in_binary_tree.go)                               | Medium     | Binary Tree, DFS                      |
 | 1851       | Minimum Interval To Include Each Query                    | [Solution](problems/intervals/minimum_interval_to_include_each_query.go)                   | Hard       | Intervals, Heap                       |
+| 1899       | Merge Triplets To Form Target Triplet                     | [Solution](problems/greedy/merge_triplets_to_form_target_triplet.go)                       | Medium     | Greedy                                |
 | 2013       | Detect Squares                                            | [Solution](problems/math/detect_squares.go)                                                | Medium     | Math, Geometry                        |
