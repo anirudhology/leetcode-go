@@ -12,7 +12,7 @@ func SubsetsWithDup(nums []int) [][]int {
 	// Sort the array
 	sort.Ints(nums)
 	// Perform backtracking
-	backtrack(nums, 0, []int{}, &powerSet)
+	backtrackSubsetsII(nums, 0, []int{}, &powerSet)
 	return powerSet
 }
 
@@ -25,7 +25,7 @@ func backtrackSubsetsII(nums []int, index int, subset []int, powerSet *[][]int) 
 			continue
 		}
 		subset = append(subset, nums[i])
-		backtrack(nums, i+1, subset, powerSet)
+		backtrackSubsetsII(nums, i+1, subset, powerSet)
 		subset = subset[:len(subset)-1]
 	}
 }
